@@ -24,7 +24,6 @@ body{
     height: 400px;
     width: 400px;
     border-radius: 200px;
-    border: 1px black solid;
 }
 
 [data-testid = "slackDisplayImage"]:hover {
