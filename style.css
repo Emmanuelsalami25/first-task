@@ -15,7 +15,7 @@ body{
     text-align: center;
 }
 
-[data-testid= "slackUserName"] {
+[data-testid = "slackUserName"] {
     font-size: 52px;
     margin-bottom: 10px;
 }
@@ -24,7 +24,7 @@ body{
     height: 400px;
     width: 400px;
     border-radius: 200px;
-    border: 5px black solid;
+    border: 1px black solid;
 }
 
 [data-testid = "slackDisplayImage"]:hover {
@@ -33,25 +33,25 @@ body{
 
 }
 
-[data-testid= "currentDayOfTheWeek"] {
+[data-testid = "currentDayOfTheWeek"] {
     margin-top: 10px;
     font-size: 24px;
     margin-bottom: 10px;
 }
 
-[data-testid= "currentUTCTime"]{
+[data-testid = "currentUTCTime"]{
     font-size: 28px;
     margin-top: 10px;
     margin-bottom: 15px;
 }
 
-[data-testid= "myTrack"] {
+[data-testid = "myTrack"] {
     font-size: 28px;
     font-style: italic;
     margin-bottom: 10px;
 }
 
-[data-testid= "githubURL"] {
+[data-testid = "githubURL"] {
     font-size: 18px;
     text-decoration: none;
     color: aquamarine;
@@ -60,7 +60,7 @@ body{
     border-radius: 4px;
 }
 
-[data-testid= "githubURL"]:hover{
+[data-testid = "githubURL"]:hover{
     color: #fff;
     background: #233b95;
 } 
